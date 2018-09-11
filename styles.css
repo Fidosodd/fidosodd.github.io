@@ -16,7 +16,7 @@ p {
 }
 
 /* Style the buttons that are used to open the tab content */
-.tab button {
+#tab button {
     background-color: inherit;
     float: left;
     border: none;
@@ -27,5 +27,5 @@ p {
 }
 
 /* Change background color of buttons on hover */
-.tab button:hover {
+#tab button:hover {
     background-color: #ddd;
