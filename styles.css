@@ -9,7 +9,7 @@ p {
     text-align:center;
 }
 /* Style the tab */
-.tab {
+#tab {
     overflow: hidden;
     border: 100px solid #ccc;
     background-color: #f1f1f1;
