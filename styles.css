@@ -22,3 +22,18 @@
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
 }
+
+a:link {
+    text-decoration: none;
+    color: white:
+}
+
+a:visited {
+    text-decoration: none;
+    color: white:
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red:
+}
