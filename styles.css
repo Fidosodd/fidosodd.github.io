@@ -1,5 +1,5 @@
 #text-box {
-    background-color: red;
+    background-color: white;
     border-radius: 10px;
     margin-left: 10 auto;
     margin-right: 10 auto;
@@ -34,6 +34,11 @@ a:visited {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: red:
+}
+
+a:active {
+    text-decoration: none;
     color: red:
 }
