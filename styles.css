@@ -26,14 +26,16 @@ a:hover {
     color: #ff0000;
     text-decoration: none;
 }
-.banner-content { 
-       position: fixed; 
-       top: 0; 
-       left: 0; 
-       background-color: #262626; 
-       padding: .75%; 
-       width: 100%;
-       float: right;
+.banner { 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    background-color: #262626; 
+    padding: .75%; 
+    width: 100%;
+}
+.banner-content {
+    float: right;
 }
 #first-text-box {
     margin-top: 80px
