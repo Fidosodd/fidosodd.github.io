@@ -1,13 +1,4 @@
-h1 {
-    margin:1.5em;
-    padding:1em;
-    text-align:center;
-}
-p {
-    margin:1.5em;
-    padding:1em;
-    text-align:center;
-twxt_box {
+text_box {
     background-color: white;
     border-radius: 10px;
     margin-left: 400px;
