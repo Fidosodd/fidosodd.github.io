@@ -23,8 +23,15 @@
   border-left: 1px solid #CCCCCC;
 }
 a:link {
-    color: #0094DE;
+    color: #ffffff;
     text-decoration: none;
-
-
 }
+a:visited {
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff0000;
+    text-decoration: none;
+}
+
