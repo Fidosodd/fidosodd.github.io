@@ -1,4 +1,4 @@
-#text-box {
+.text-box {
     background-color: white;
     border-radius: 10px;
     margin-left: auto;
@@ -33,4 +33,7 @@ a:hover {
        background-color: #262626; 
        padding: .75%; 
        width: 100%; 
+}
+#first-text-box {
+    margin-top: 80px
 }
