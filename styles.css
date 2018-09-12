@@ -22,23 +22,9 @@
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
 }
-
 a:link {
+    color: #0094DE;
     text-decoration: none;
-    color: white:
-}
 
-a:visited {
-    text-decoration: none;
-    color: white:
-}
 
-a:hover {
-    text-decoration: none;
-    color: red:
-}
-
-a:active {
-    text-decoration: none;
-    color: red:
 }
