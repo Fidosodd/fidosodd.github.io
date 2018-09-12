@@ -36,6 +36,7 @@ a:hover {
 }
 .banner-content {
     float: right;
+    padding-right: 10px;
 }
 #first-text-box {
     margin-top: 80px
