@@ -34,11 +34,11 @@ a:hover {
     color: #ff0000;
     text-decoration: none;
 }
-#banner-content { 
+.banner-content { 
        position: fixed; 
        top: 0; 
        left: 0; 
-       background-color: #262630; 
+       background-color: #262626; 
        padding: .75%; 
        width: 100%; 
 }
