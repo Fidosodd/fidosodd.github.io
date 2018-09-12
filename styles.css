@@ -12,7 +12,7 @@
     font: bold 16px Arial;
     padding-right: 10px;
     padding-left: 10px;
-    border-right: 2px #fff;
+    border-right: 2px solid #fff;
 }
 a:link {
     color: #fff;
