@@ -16,11 +16,11 @@
 }
 #home-button {
     float: left;
-    border-right: 0px
-    padding-left: 10px
+    border-right: 0px;
+    padding-left: 10px;
 }
 #last-button {
-    border-right: 0px
+    border-right: 0px;
 }
 #cover-image {
     max-height:150px;
