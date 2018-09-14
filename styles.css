@@ -1,5 +1,5 @@
 .text-box {
-    background-color: hotpink;
+    background-color: #fff;
     border-radius: 10px;
     margin-left: auto;
     margin-right: auto;
@@ -23,7 +23,7 @@
     border-right: 0px;
 }
 #cover-image {
-    width: 100%;
+    width: 20%;
     height: auto;
 }
 a:link {
