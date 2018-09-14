@@ -23,10 +23,8 @@
     border-right: 0px;
 }
 #cover-image {
-    height: 125;
-    width: auto;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
+    height: auto;
 }
 a:link {
     color: #fff;
