@@ -29,7 +29,7 @@
     min-width: 200px;
 }
 .banner-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/MountainPan.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/MountainsPan.jpg");
   height: 10%;
   background-position: center;
   background-repeat: no-repeat;
