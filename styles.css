@@ -40,7 +40,7 @@ a:hover {
     color: #f00;
     text-decoration: none;
 }
-.intext-link a:link {
+a.intext-link:link {
     color: #000;
     text-decoration: underline;
 }
