@@ -28,7 +28,7 @@
     height: auto;
     min-width: 200px;
 }
-#banner-image {
+.banner-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/photos/MountainPan.jpg");
   height: 10%;
   background-position: center;
