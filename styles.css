@@ -28,6 +28,10 @@
     height: auto;
     min-width: 200px;
 }
+#banner-image {
+    width: 100%;
+    height: auto;
+}
 a:link {
     color: #fff;
     text-decoration: none;
