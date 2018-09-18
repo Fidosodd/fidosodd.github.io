@@ -29,9 +29,11 @@
     min-width: 200px;
 }
 #banner-image {
-    margin-top: 36px;
+    margin-top: 30px;
     width: 110%;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 a:link {
     color: #fff;
