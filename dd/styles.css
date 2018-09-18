@@ -7,7 +7,7 @@
     max-width: 1100px;
     margin-bottom: 20px;
     padding: 50px;
-    box-shadow: 4px 8px 15px -1px #a8a8a8;
+    box-shadow: 4px 8px 15px -1px #caf75c;
 }
 .button {
     font: bold 16px Arial;
@@ -51,7 +51,7 @@ a.intext-link:hover {
     position: fixed; 
     top: 0; 
     left: 0; 
-    background-color: #262626; 
+    background-color: #264f1a; 
     padding: .75%; 
     width: 100%;
 }
