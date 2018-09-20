@@ -43,6 +43,9 @@ padding:0;
     font: bold 16px Goerga;
     font-size: 4em;
     color: #262626;
+    margin: 0;
+    text-align: center;
+    text-shadow: 3px 6px 12px #444;
 }
 a:link {
     color: #fff;
