@@ -70,7 +70,7 @@ a.intext-link:hover {
     color: #f00;
 }
 a.intext-link:visited {
-    color: #f00;
+    color: #000;
 }
 .banner { 
     position: fixed; 
