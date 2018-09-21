@@ -93,3 +93,11 @@ a.intext-link:visited {
     top: calc(150px-.15vw);
     width:100%;
 }
+#first-text-box {
+    margin-top: 80px;
+    margin-top:20px;
+    position:absolute;
+    top:60%;
+    left:50%;
+    transform:translate(-50%,0);
+}
