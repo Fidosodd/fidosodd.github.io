@@ -45,6 +45,7 @@ padding:0;
     margin-top: calc(.1vh + 20px);
     padding-bottom: 75px;
     font: bold 4vw Georgia;
+    font-size: calc(4vw + 10px);
     color: #262626;
     margin: 0px;
     text-align: center;
@@ -91,7 +92,4 @@ a.intext-link:visited {
     position: absolute;
     top: calc(150px-.15vw);
     width:100%;
-}
-#titleText {
-    margin-top: calc(100px-.1vw);
 }
