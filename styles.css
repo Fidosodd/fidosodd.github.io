@@ -89,6 +89,6 @@ a.intext-link:visited {
 }
 .frontPagePostion {
     position: absolute;
-    top: calc(100px-.1vw);
+    top: calc(150px-.15vw);
     width:100%;
 }
