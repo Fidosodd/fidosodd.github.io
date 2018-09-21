@@ -15,7 +15,7 @@ padding:0;
     box-shadow: 4px 8px 15px -1px #002c58;
 }
 .button {
-    font: bold 1em Arial;
+    font: bold .5vw Arial;
     padding-right: 12px;
     padding-left: 10px;
     border-right: 2px solid #fff;
@@ -44,8 +44,7 @@ padding:0;
     padding-top: 20px;
     margin-top: 100%;
     padding-bottom: 75px;
-    font: bold 16px Georgia;
-    font-size: 4vw;
+    font: bold 4vw Georgia;
     color: #262626;
     margin: 0px;
     text-align: center;
