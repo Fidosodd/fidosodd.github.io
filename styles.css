@@ -42,7 +42,7 @@ padding:0;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 20px;
-    margin-top: .1vh;
+    margin-top: calc(.1vh + 20px);
     padding-bottom: 75px;
     font: bold 4vw Georgia;
     color: #262626;
