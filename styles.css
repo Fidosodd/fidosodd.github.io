@@ -87,3 +87,8 @@ a.intext-link:visited {
 #first-text-box {
     margin-top: 80px
 }
+.frontPagePostion {
+    position: absolute;
+    top: calc(100px-.1vw);
+    width:100%;
+}
