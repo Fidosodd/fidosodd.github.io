@@ -42,7 +42,7 @@ padding:0;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 20px;
-    margin-top: calc(.1vh + 20px);
+    margin-top: calc(.1vw + 20px);
     padding-bottom: 75px;
     font: bold calc(4vw + 20px) Georgia;
     font-size: calc(4vw + 20px);
