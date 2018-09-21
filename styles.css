@@ -97,7 +97,7 @@ a.intext-link:visited {
     margin-top: 80px;
     margin-top:20px;
     position:absolute;
-    top:calc(3vh+60px);
+    top: 60%;
     left:50%;
     transform:translate(-50%,0);
 }
