@@ -80,6 +80,7 @@ a.intext-link:visited {
     background-color: #262626; 
     padding: 10px; 
     width: 100%;
+    max-height: calc(36px+5vh);
 }
 .banner-content {
     float: right;
