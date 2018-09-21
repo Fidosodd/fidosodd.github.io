@@ -80,11 +80,12 @@ a.intext-link:visited {
     background-color: #262626; 
     padding: 10px; 
     width: 100%;
-    max-height: calc(36px+5vh);
 }
 .banner-content {
     float: right;
     padding-right: 10px;
+    max-height: 5vh;
+    overflow: auto;
 }
 #first-text-box {
     margin-top: 80px;
