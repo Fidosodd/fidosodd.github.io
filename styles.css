@@ -86,7 +86,7 @@ a.intext-link:visited {
     padding-right: 10px;
 }
 #first-text-box {
-    margin-top: calc(80vh+60px);
+    margin-top: 80px;
 }
 .frontPagePostion {
     position: absolute;
