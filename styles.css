@@ -93,5 +93,5 @@ a.intext-link:visited {
     width:100%;
 }
 #titleText {
-    padding: calc(100px-.1vw);
+    margin-top: calc(100px-.1vw);
 }
