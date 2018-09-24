@@ -42,6 +42,7 @@ padding:0;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 20px;
+    margin-top: calc(80px-50%);
     margin-top: 40px;
     padding-bottom: 75px;
     font: bold calc(4vw + 20px) Georgia;
@@ -96,10 +97,9 @@ a.intext-link:visited {
     width:100%;
 }
 #front-text-box {
-    margin-top: 80px;
-    margin-top:20px;
-    position:absolute;
+    margin-top: 20px;
+    position: absolute;
     top: 60%;
-    left:50%;
-    transform:translate(-50%,0);
+    left: 50%;
+    transform: translate(-50%,0);
 }
