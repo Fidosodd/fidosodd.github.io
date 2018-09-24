@@ -96,7 +96,7 @@ a.intext-link:visited {
     width:100%;
 }
 #front-text-box {
-    margin-top: calc(2000px+5vh);
+    margin-top: 30px;
     position: absolute;
     top: 60%;
     left: 50%;
