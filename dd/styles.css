@@ -68,13 +68,12 @@ a.intext-link:hover {
     position: absolute;
     height: auto;
     top: 28px;
+    width: 25%;
 }
 #vesperian {
-    width: 50%;
     left: 10px;
 }
 #dragonfly {
-    width: 50%;
     right: 80px;
     left: calc(100vw - 160px);
 }
