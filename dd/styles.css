@@ -70,6 +70,7 @@ a.intext-link:hover {
     height: auto;
     top: 28px;
     width: 25%;
+*/
 }
 #vesperian {
     left: 10px;
@@ -78,4 +79,4 @@ a.intext-link:hover {
     right: 80px;
     left: calc(100vw - 160px);
 }
-*/
+
