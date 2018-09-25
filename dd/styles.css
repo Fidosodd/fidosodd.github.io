@@ -66,14 +66,15 @@ a.intext-link:hover {
 }
 .emblem {
     position: absolute;
-    width: 150px;
     height: auto;
     top: 28px;
 }
-#vesperian {
+img#vesperian {
+    width: 50%;
     left: 10px;
 }
-#dragonfly {
+img#dragonfly {
+    width: 50%;
     right: 80px;
     left: calc(100vw - 160px);
 }
