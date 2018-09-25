@@ -69,11 +69,11 @@ a.intext-link:hover {
     height: auto;
     top: 28px;
 }
-img#vesperian {
+#vesperian {
     width: 50%;
     left: 10px;
 }
-img#dragonfly {
+#dragonfly {
     width: 50%;
     right: 80px;
     left: calc(100vw - 160px);
