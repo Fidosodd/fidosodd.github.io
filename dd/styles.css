@@ -64,3 +64,16 @@ a.intext-link:hover {
 #first-text-box {
     margin-top: 80px
 }
+.emblem {
+    position: absolute;
+    width: 150px;
+    height: auto;
+    top: 28;
+}
+#vesperian {
+    left: 10px;
+}
+#dragonfly
+    right: 10px;
+}
+
