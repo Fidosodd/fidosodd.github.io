@@ -74,6 +74,6 @@ a.intext-link:hover {
     left: 10px;
 }
 #dragonfly
-    right: 10px;
+    left: calc(100vw - 160px);
 }
 
