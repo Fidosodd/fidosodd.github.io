@@ -73,7 +73,8 @@ a.intext-link:hover {
 #vesperian {
     left: 10px;
 }
-#dragonfly
+#dragonfly {
+    right: 80px;
     left: calc(100vw - 160px);
 }
 
