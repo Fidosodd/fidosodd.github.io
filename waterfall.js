@@ -1,8 +1,8 @@
-function Waterfall(Dragonfly) {
-    var Splash = Dragonfly;
-    if (Splash.style.display === "none") {
-        Splash.style.display = "block";
+function Waterfall(Splash) {
+    var Dragonfly = Splash;
+    if (Dragonfly.style.display === "none") {
+        Dragonfly.style.display = "block";
     } else {
-        Splash.style.display = "none";
+        Dragonfly.style.display = "none";
     }
 }
