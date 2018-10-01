@@ -5,11 +5,15 @@
     border: 2px solid #333;
     margin-left: auto;
     margin-right: auto;
-    width: calc(100% - 700px);
+    width: 80%;
     max-width: 1100px;
     margin-bottom: 20px;
     padding: 50px;
     box-shadow: 4px 8px 15px -1px #baae82;
+}
+#alt-text-box {
+    width: calc(100% - 700px);
+    margin-top: 80px;
 }
 .button {
     font: bold 16px Arial;
@@ -79,7 +83,7 @@ a.intext-link:hover {
     right: 80px;
     left: calc(100vw - 160px);
 }
-#D&DLogo {
+#DDLogo {
     margin-left: 50%;
     transform: translate(-50%,0);
 }
