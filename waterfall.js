@@ -1,9 +1,8 @@
-this.children
-function myFunction() {
-    var x = document.getElementById("myDIV");
-    if (x.style.display === "none") {
-        x.style.display = "block";
+function Waterfall(Dragonfly) {
+    var Splash = Dragonfly;
+    if (Splash.style.display === "none") {
+        Splash.style.display = "block";
     } else {
-        x.style.display = "none";
+        Splash.style.display = "none";
     }
 }
