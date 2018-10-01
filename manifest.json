@@ -1,4 +1,0 @@
-{
-    screen.lockOrientation('landscape');
-    lockedAllowed = window.screen.lockOrientation'lansdcape';
-}
