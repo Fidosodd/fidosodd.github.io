@@ -51,11 +51,7 @@ padding:0;
     text-align: center;
     text-shadow: 3px 6px 12px #444;
 }
-a:link {
-    color: #fff;
-    text-decoration: none;
-}
-a:visited {
+a:link, a:visited {
     color: #fff;
     text-decoration: none;
 }
@@ -63,15 +59,12 @@ a:hover {
     color: #f00;
     text-decoration: none;
 }
-a.intext-link:link {
+a.intext-link:link, a.intext-link:visited {
     color: #000;
     text-decoration: underline;
 }
 a.intext-link:hover {
     color: #f00;
-}
-a.intext-link:visited {
-    color: #000;
 }
 .banner { 
     position: fixed; 
