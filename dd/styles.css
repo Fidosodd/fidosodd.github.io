@@ -10,6 +10,7 @@
     margin-bottom: 20px;
     padding: 50px;
     box-shadow: 4px 8px 15px -1px #baae82;
+    overflow: auto;
 }
 #alt-text-box {
     width: calc(100% - 700px);
