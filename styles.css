@@ -13,6 +13,7 @@ padding:0;
     margin-bottom: 20px;
     padding: 50px;
     box-shadow: 4px 8px 15px -1px #002c58;
+    overflow: auto;
 }
 .button {
     font: bold 1em Arial;
