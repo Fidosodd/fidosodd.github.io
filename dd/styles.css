@@ -96,6 +96,6 @@ a.intext-link:hover {
 .text-width-limt {
     width: 100%;
     max-width: 550px;
-    padding: 0px;
+    padding-left, padding-right: 50px;
 }
 
