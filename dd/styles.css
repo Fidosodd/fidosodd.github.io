@@ -60,7 +60,7 @@ a.intext-link:hover {
     top: 0; 
     left: 0; 
     background-color: #1b3015; 
-    padding: .75%; 
+    padding: 10px; 
     width: 100%;
 }
 .banner-content {
