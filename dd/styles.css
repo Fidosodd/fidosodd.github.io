@@ -9,7 +9,8 @@
     position: fixed;
     left: 0px;
     top: 60px;
-    width: 15
+    width: 15%;
+    height: 100%;
     background: #e0d5a3;
     border-right: 4px solid #333;
 }
