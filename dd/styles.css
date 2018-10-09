@@ -1,8 +1,6 @@
 /*D&D Cascading Style Sheet.*/
 #main-content {
-    position: fixed;
-    left: 15%;
-    top: 0px;
+    margin-left: 15%;
     width: 85%;
 }
 #pannel {
