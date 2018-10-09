@@ -4,7 +4,6 @@
     left: 15%;
     top: 0px;
     width: 85%;
-    overflow: auto;
 }
 #pannel {
     position: fixed;
@@ -14,6 +13,9 @@
     height: 100%;
     background: #e0d5a3;
     border-right: 4px solid #333;
+}
+body {
+    overflow: auto;
 }
 .text-box {
     background-color: #fffcf7;
