@@ -1,4 +1,8 @@
 /*D&D Cascading Style Sheet.*/
+#main-content {
+    width: 80%;
+    margin-left: 20%;
+}
 .text-box {
     background-color: #fffcf7;
     border-radius: 10px;
