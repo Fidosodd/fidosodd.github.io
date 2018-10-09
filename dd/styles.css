@@ -102,4 +102,6 @@ a.intext-link:hover {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-
+h1 {
+    font-size: 3em;
+}
