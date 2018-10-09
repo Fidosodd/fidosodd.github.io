@@ -99,5 +99,7 @@ a.intext-link:hover {
     max-width: 550px;
     margin-left: 50%;
     transform: translate(-50%,0);
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
