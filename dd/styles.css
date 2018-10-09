@@ -94,16 +94,15 @@ a.intext-link:hover {
     top: 28px;
     width: 25%;
 */
-/*
 }
 #vesperian {
-    left: 10px;
+    left: calc(10px + 15%);
 }
 #dragonfly {
-    *//*right: 80px;*//*
+    /*right: 80px;*//*
     left: calc(100vw - 160px);
+    */
 }
-*/
 #DDLogo {
     margin-left: 50%;
     transform: translate(-50%,0);
