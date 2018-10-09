@@ -4,6 +4,7 @@
     left: 15%;
     top: 0px;
     width: 85%;
+    overflow: auto;
 }
 #pannel {
     position: fixed;
