@@ -1,7 +1,15 @@
 /*D&D Cascading Style Sheet.*/
 #main-content {
+    position: fixed;
+    left: 15%;
+    top: 0px;
     width: 85%;
-    margin-left: 15%;
+}
+#pannel {
+    position: fixed;
+    left: 0px;
+    top: 60px;
+    width: 15%;
 }
 .text-box {
     background-color: #fffcf7;
