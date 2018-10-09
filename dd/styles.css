@@ -96,6 +96,7 @@ a.intext-link:hover {
 */
 }
 #vesperian {
+    position: fixed;
     left: calc(10px + 15%);
 }
 #dragonfly {
