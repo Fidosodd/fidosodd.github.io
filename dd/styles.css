@@ -14,9 +14,6 @@
     background: #e0d5a3;
     border-right: 4px solid #333;
 }
-body {
-    overflow: auto;
-}
 .text-box {
     background-color: #fffcf7;
     border-radius: 10px;
