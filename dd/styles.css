@@ -1,7 +1,7 @@
 /*D&D Cascading Style Sheet.*/
 #main-content {
-    width: 90%;
-    margin-left: 10%;
+    width: 85%;
+    margin-left: 15%;
 }
 .text-box {
     background-color: #fffcf7;
@@ -85,7 +85,7 @@ a.intext-link:hover {
 */
 }
 #vesperian {
-    left: calc(10px + 10%);
+    left: calc(10px + 15%);
 }
 #dragonfly {
     /*right: 80px;*/
@@ -105,7 +105,4 @@ a.intext-link:hover {
     transform: translate(-50%,0);
     padding-top: 20px;
     padding-bottom: 20px;
-}
-h1 {
-    font-size: 3em;
 }
