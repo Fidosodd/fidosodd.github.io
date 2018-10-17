@@ -122,5 +122,5 @@ a.intext-link:hover {
 .SettlementMarker {
     width: 25px;
     height: 25px;
-    position: relative;
+    position: absolute;
 }
