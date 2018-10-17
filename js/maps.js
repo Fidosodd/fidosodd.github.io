@@ -1,8 +1,6 @@
-function Waterfall(Splash) {
-    var Dragonfly = Splash;
-    if (Dragonfly.style.display === "none") {
-        Dragonfly.style.display = "block";
-    } else {
-        Dragonfly.style.display = "none";
-    }
+function location(x_coord,y_coord) {
+    var x = x_coord;
+    var y = y_coord;
+    this.top = x;
+    this.left = y;
 }
