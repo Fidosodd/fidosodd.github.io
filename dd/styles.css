@@ -117,8 +117,9 @@ a.intext-link:hover {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-/*.MapPostition {
-}*/
+.MapPostition {
+    text-align:left;
+}
 .SettlementMarker {
     width: 10px;
     height: 10px;
