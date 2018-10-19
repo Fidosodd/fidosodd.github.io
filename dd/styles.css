@@ -124,6 +124,8 @@ a.intext-link:hover {
     width: 10px;
     height: 10px;
     position: absolute;
+    left: 0px;
+    top: 0px;
 }
 .map-box {
     padding-left: 0px;
