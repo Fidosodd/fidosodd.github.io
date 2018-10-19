@@ -131,7 +131,7 @@ a.intext-link:hover {
     width: calc(100% - 120px);
 }
 .Markers {
-    postition: absolute;
+    position: absolute;
     text-align: left;
     padding-left: 2.5%;
     padding-right: 2.5%;
