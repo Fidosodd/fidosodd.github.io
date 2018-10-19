@@ -125,3 +125,7 @@ a.intext-link:hover {
     height: 10px;
     position: absolute;
 }
+.map-box {
+    padding-left: 0px;
+    padding-right: 0px;
+    width: calc(100% - 120px);
