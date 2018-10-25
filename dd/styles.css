@@ -138,3 +138,6 @@ a.intext-link:hover {
     padding-left: 2.5%;
     padding-right: 2.5%;
 }
+.GodDesc {
+    display: none;
+}
