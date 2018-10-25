@@ -1,6 +1,6 @@
-function glacial(x_coord, y_coord) {
+function glacial(x_coord, y_coord, frost) {
     var x = x_coord;
     var y = y_coord;
-    this.left = x;
-    this.top = y;
+    frost.left = x;
+    frost.top = y;
 }
