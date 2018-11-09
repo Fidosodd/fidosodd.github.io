@@ -96,3 +96,9 @@ a.intext-link:hover {
     left: 50%;
     transform: translate(-50%,0);
 }
+.outline {
+    border: 2px solid #333;
+    border-radius: 12px;
+	min-height: 50px;	
+	width: calc(50%-10px);
+}
