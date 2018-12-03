@@ -109,5 +109,6 @@ a.intext-link:hover {
     min-height: 50px;	
     width: calc(100% - 75px);
     padding: 12.5px;
+    margin-top: 75px;
 }
 
