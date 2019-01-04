@@ -123,6 +123,13 @@ a.intext-link:hover {
     left: 50%;
     transform: translate(-50%,0);
 }
+#front-text-box {
+    margin-top: 120px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,0);
+}
 .outline {
     border: 2px solid #333;
     border-radius: 12px;
