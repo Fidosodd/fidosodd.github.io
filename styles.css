@@ -123,7 +123,7 @@ a.intext-link:hover {
     left: 50%;
     transform: translate(-50%,0);
 }
-#front-text-box {
+#front-text-box-mobile {
     margin-top: 120px;
     position: absolute;
     top: 60%;
