@@ -1,6 +1,6 @@
 .ddmenu {
   overflow: visible;
-  background-color: #333;
+  background-color: #262626;
 }
 
 .ddmenu a {
@@ -24,13 +24,13 @@
 
 .dropdown {
   float: left;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .dropdown .dropbtn {
   font-size: 17px;    
   border: none;
-  outline: none;
+  outline: 1px #000;
   color: white;
   padding: 8px 16px;
   background-color: inherit;
