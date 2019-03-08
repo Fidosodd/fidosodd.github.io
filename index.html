@@ -36,21 +36,38 @@
   </div>
   <div class="banner">
     <div id="menu">
-      <div id="menufull"
+      <div id="menufull" style="display:none">
         <a href="compsci.morganthomas.tk" class="button">IB Comp. Sci.</a>
         <a href="dd">D&amp;D</a>
         <a href="rom" class="button">Pokemon Rom Hack?</a>
         <a href="misc" class="button">Other Things</a>
         <a href="about" class="button" id="last-button">About/Contact</a>
       </div>
-      <div id="ddown"
-        <option value="" selected="selected">Select</option> 
-        <option value="/">Home</option> 
-        <option value="/collections/all">Books</option> 
-        <option value="/blogs/five-simple-steps-blog">Blog</option> 
-        <option value="/pages/about-us">About Us</option> 
-        <option value="/pages/support">Support</option> 
+      <button class="dropbtn" onclick="patdown()">≡</button>
+      <div class="dropdown-content" id="myDropdown">
+        <a href="compsci.morganthomas.tk">IB Comp. Sci.</a>
+        <a href="dd">D&amp;D</a>
+        <a href="rom">Pokemon Rom Hack?</a>
+        <a href="misc">Other Things</a>
+        <a href="about">About/Contact</a>
       </div>
     </div>
   </div>
+  <script>
+  /* When the user clicks on the button, 
+  toggle between hiding and showing the dropdown content */
+  function patdown() {
+    document.getElementById("ddown").classList.toggle("show");
+  }
+
+  // Close the dropdown if the user clicks outside of it
+  window.onclick = function(e) {
+    if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+    }
+  }
+  </script>
 </body>
