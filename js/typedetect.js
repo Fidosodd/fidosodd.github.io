@@ -11,3 +11,4 @@ function deskchange() {
         var menu = document.getElementById('menufull');
         menufull.style.display = 'block';
     }
+}
