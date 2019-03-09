@@ -21,7 +21,7 @@ function typecheck() {
 };
 }
 function deskchange() {
-    if (isMobile()){
+    if (isMobile.any()){
         var menu = document.getElementById('menufull');
         menufull.style.display = 'block';
     }
