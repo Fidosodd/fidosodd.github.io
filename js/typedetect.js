@@ -40,6 +40,7 @@ function deskchange() {
     any: function() {
         return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
     }
+    };
     if (isMobile.any()){
         var menu = document.getElementById('menufull');
         menufull.style.display = 'block';
