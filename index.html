@@ -14,6 +14,7 @@
   <script src="/js/pressure.js"></script>
   <script src="/js/typedetect.js"></script>
   onload="typecheck()"
+  onload="ddswap()"
   <style>
     .navbar {
   overflow: hidden;
@@ -108,8 +109,8 @@
         <a href="misc" class="button">Other Things</a>
         <a href="about" class="button" id="last-button">About/Contact</a>
       </div>
-      <a id="dropbtn" onclick="myFunction()" style="font-size:2em;color:white;float:right;padding-right:10px;">≡ </a>
-      <div class="dropdown-content" id="myDropdown" style="right:0px;top:2.3em;">
+      <a id="dropbtn" onclick="ddswap()" style="font-size:2em;color:white;float:right;padding-right:10px;">≡ </a>
+      <div class="dropdown-content show" id="myDropdown" style="right:0px;top:2.3em;">
         <a href="compsci.morganthomas.tk">IB Comp. Sci.</a>
         <a href="dd">D&amp;D</a>
         <a href="rom">Pokemon Rom Hack?</a>
@@ -121,7 +122,7 @@
   <script>
   /* When the user clicks on the button, 
   toggle between hiding and showing the dropdown content */ 
-  function myFunction() {
+  function ddswap() {
     document.getElementById("myDropdown").classList.toggle("show");
   }
 
