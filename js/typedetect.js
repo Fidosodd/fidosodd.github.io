@@ -45,4 +45,8 @@ function deskchange() {
         var menu = document.getElementById('menufull');
         menufull.style.display = 'block';
     }
+    else {
+        var menu = document.getElementById('dropbtn');
+        dropbtn.style.display = 'block';
+    }
 }
